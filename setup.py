@@ -54,7 +54,7 @@ setup(
         "marshmallow-jsonschema>=0.12.0",
         "mashumaro>=3.9.1",
         "numpy",
-        "pandas>=1.0.0,<2.0.0",
+        "pandas>=1.0.0,<3.0.0",
         # TODO: Remove upper-bound after protobuf community fixes it. https://github.com/flyteorg/flyte/issues/4359
         "protobuf<4.25.0",
         "pyarrow>=4.0.0",
